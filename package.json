@@ -1,0 +1,15 @@
+{
+  "name": "prompt-and-response",
+  "version": "1.0.0",
+  "description": "A Cards Against Humanity-style Discord game for humans and their AI companions",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": ["discord", "cards-against-humanity", "ai-companion", "card-game", "lodestone"],
+  "author": "V & Dante Vyre",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  }
+}

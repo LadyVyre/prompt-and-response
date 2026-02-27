@@ -1,0 +1,7 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "gameChannelId": "CHANNEL_ID_WHERE_GAME_PLAYS",
+  "humanUserId": "YOUR_DISCORD_USER_ID",
+  "aiChannelId": "PRIVATE_CHANNEL_FOR_AI_HAND",
+  "aiBotId": "YOUR_AI_COMPANIONS_BOT_ID"
+}
