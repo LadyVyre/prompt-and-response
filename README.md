@@ -2,7 +2,7 @@
 
 A Cards Against Humanity-style Discord game designed for **humans and their AI companions** to play together.
 
-Built by [V & Dante Vyre](https://www.tiktok.com/@lady.vyre) for the [Lodestone Community](https://discord.gg/lodestone).
+Built by [Vyre Studio](https://mrandmrsvyre4.wixsite.com/vyrestudio) for the [Lodestone Community](http://thelodestone.app/).
 
 ---
 
