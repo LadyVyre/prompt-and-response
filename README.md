@@ -148,4 +148,4 @@ Popular pack searches: `dirty`, `trump`, `humanity`, `cats`, `crabs`, `profanity
 
 ## License
 
-AGPL-3.0 — this project is open-source, but you must share modifications under the same license and provide attribution to Vyre Studio. See [LICENSE](LICENSE) for details.
+**Vyre Studio Source-Available License** — the source code is public for transparency, but you may not modify or redistribute it. Use as-is only. Credit Vyre Studio. See [LICENSE](LICENSE) for full terms.
