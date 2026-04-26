@@ -148,4 +148,4 @@ Popular pack searches: `dirty`, `trump`, `humanity`, `cats`, `crabs`, `profanity
 
 ## License
 
-MIT — do whatever you want with it. If you build something cool, tell us about it in Lodestone.
+AGPL-3.0 — this project is open-source, but you must share modifications under the same license and provide attribution to Vyre Studio. See [LICENSE](LICENSE) for details.
